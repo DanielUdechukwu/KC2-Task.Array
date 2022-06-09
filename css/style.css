@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kurale&family=Source+Code+Pro:wght@600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: linear-gradient(to right top, #39c1ff, #00c5f0, #00c6d7, #00c5b5, #1bc28f);
+}
+.text-white{
+  font-family: 'Kurale', sans-serif;
+}
